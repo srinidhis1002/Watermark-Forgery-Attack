@@ -26,8 +26,8 @@ python forge_watermarks.py --dataset_dir /path/to/Dataset --out_dir ./submission
 
 This produces:
 - `./submission_out/` : the 200 forged PNGs
-- `./submission.zip` : the ready-to-submit zip file
-- `./submission_out/run_report.json` : per-group method/reliability log
+- `./submission.zip` : the ready tovsubmit zip file
+- `./submission_out/run_report.json` : per group method/reliability log
 
 ## 4. Submit 
 
